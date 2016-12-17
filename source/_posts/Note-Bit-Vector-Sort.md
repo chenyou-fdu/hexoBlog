@@ -1,7 +1,7 @@
-title: "#算法笔记# 位图排序笔记"
+title: "位图排序"
 date: 2015-08-21 11:02:53
-tags: [笔记, 算法]
-category: 算法笔记
+tags: [算法]
+category: 算法
 ---
 
 这篇是看过编程珠玑里位图排序的部分后，进行了一些实现，然后简单记录下。
@@ -38,7 +38,7 @@ void test(int i){
 <!-- more  -->
 
 ## 位图排序
-这里我实现位图排序用的是STL库的`vector`，不需要提前定义N。
+这里我实现位图排序用的是STL库的`vector`，不需要提前定义`N`。
 ```cpp
 #include <iostream>
 #include <vector>
@@ -77,8 +77,7 @@ void bitVectorSort(vector<int>& nums) {
 
 这里我简单的进行了一下速度上的比较，在这种输入数据情况下，位图排序要比STL库中的排序快5倍左右。
 ```cpp
-int main()
-{
+int main() {
     vector<int> numsA;
     vector<int> numsB;
     for (int i = 10000000; i >= 0; i--) {

@@ -1,6 +1,6 @@
 title: "一周Q&A #1"
 date: 2015-06-05 22:19:45
-tags: [笔记, 日常]
+tags: [日常]
 category: Weekly Q&A
 ---
 

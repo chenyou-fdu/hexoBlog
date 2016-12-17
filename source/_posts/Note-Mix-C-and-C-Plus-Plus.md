@@ -1,7 +1,7 @@
-title: "#开发笔记# 如何混编C++和C"
+title: "如何混编C++和C"
 date: 2015-07-19 16:34:24
-tags: [开发，笔记, C++]
-category: 开发笔记
+tags: [开发, C++]
+category: 开发
 ---
 
 ## 在C++中调用C函数

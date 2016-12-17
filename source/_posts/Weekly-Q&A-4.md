@@ -1,6 +1,6 @@
 title: "一周Q&A #4"
 date: 2016-04-15 18:41:00
-tags: [笔记, 日常]
+tags: [日常]
 category: Weekly Q&A
 ---
 

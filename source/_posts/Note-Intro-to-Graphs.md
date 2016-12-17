@@ -1,7 +1,8 @@
-title: "#开发笔记# 图类问题解法笔记"
+title: "图类问题解法"
 date: 2015-05-06 22:50:24
-tags: [笔记, 算法]
-category: 算法笔记
+tags: [算法]
+category: 算法
+mathjax: true
 ---
 
 根据TopCoder上[Introduction to Graphs and Their Data Structures](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/)这篇Tutorial以及平时自己的一些实现心得进行笔记。

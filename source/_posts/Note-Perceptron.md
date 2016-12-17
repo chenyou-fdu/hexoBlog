@@ -1,7 +1,8 @@
-title: "#机器学习笔记# 感知机（Perceptron）"
+title: "感知机（Perceptron）"
 date: 2015-03-07 20:46:26
-tags: [机器学习, 笔记, 感知机]
-category: 机器学习笔记
+tags: [机器学习, 感知机]
+category: 机器学习
+mathjax: true
 ---
 
 ## 损失函数

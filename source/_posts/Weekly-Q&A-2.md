@@ -1,6 +1,6 @@
 title: "一周Q&A #2"
 date: 2015-07-24 22:19:45
-tags: [笔记, 日常]
+tags: [日常]
 category: Weekly Q&A
 ---
 一直偷懒没写，其实问题早就整理好了。

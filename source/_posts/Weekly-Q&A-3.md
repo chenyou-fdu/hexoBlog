@@ -1,6 +1,6 @@
 title: "一周Q&A #3"
 date: 2015-12-31 10:47:15
-tags: [笔记, 日常]
+tags: [日常]
 category: Weekly Q&A
 ---
 

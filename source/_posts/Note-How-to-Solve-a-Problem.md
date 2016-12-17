@@ -1,7 +1,8 @@
-title: "#算法笔记# How to Find a Solution 笔记"
+title: "How to Find a Solution"
 date: 2015-04-25 15:25:44
-tags: [笔记, 算法]
-category: 算法笔记
+tags: [算法]
+category: 算法
+mathjax: true
 ---
 
 最近在看TopCoder上的Tutorial，这里对[How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)这篇做一个简短的笔记。
